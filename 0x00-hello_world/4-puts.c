@@ -1,5 +1,5 @@
 #include <studio.h>
-/*
+/**
  * main - to print a line of code using puts
  *
  * Return: 0
