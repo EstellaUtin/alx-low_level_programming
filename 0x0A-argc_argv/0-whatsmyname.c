@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 /**
- * main - print the name 
+ * main - print the name
  * @argc: number of arguments
- * @argv: arguments passed 
+ * @argv: arguments passed
  * Return: 0.
  */
 
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	(void) argc;
 
