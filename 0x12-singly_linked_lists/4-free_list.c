@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * free-list - A function that frees all elements
+ * free_list - A function that frees all elements
  * @head: pointer to head of element
  * Return: Nothing
  */
